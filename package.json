@@ -57,7 +57,7 @@
     "merge": ">=2.1.1",
     "mini-css-extract-plugin": "^2.4.5",
     "pkg-dir": "^6.0.1",
-    "postcss": "^8.2.4",
+    "postcss": "^8.4.31",
     "postcss-loader": "^6.2.1",
     "prettier": "^2.5.0",
     "redoc": "^2.0.0-rc.58",
@@ -68,7 +68,7 @@
     "style-loader": "^3.3.1",
     "terser-webpack-plugin": "^5.1.1",
     "typescript": "^4.7.2",
-    "webpack": "^5.64.4",
+    "webpack": "^5.76.0",
     "webpack-cli": "^4.9.1",
     "webpack-remove-empty-scripts": "^0.7.1"
   },
