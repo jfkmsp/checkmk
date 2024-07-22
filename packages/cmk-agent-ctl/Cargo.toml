@@ -34,7 +34,7 @@ string_enum = { version = "0.3" }
 x509-parser = { version = "0.13" }
 flate2 = { version = "1.0" }
 rand = { version = "0.8" }
-tokio = { version = "1.18", features = ["full"] }
+tokio = { version = "1.24", features = ["full"] }
 tokio-rustls = { version = "0.23" }
 async-std = { version = "1.11" }
 ipnet = { version = "2.5" }
