@@ -36,12 +36,12 @@ reqwest = { version = "0.11", features = [
   "native-tls",
   "rustls-tls-manual-roots",
 ] }
-rpassword = { version = "6.0" }
+rpassword = { version = "7.5" }
 rustls = { version = ">=0.21.7", features = ["dangerous_configuration"] }
 rustls-pemfile = { version = "1.0" }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = { version = "1.0" }
-serde_with = { version = "1.13" }
+serde_with = { version = "3.8" }
 socket2 = { version = "0.4" }
 string_enum = { version = "0.4.1" } # used to display and serialize ConnectionMode
 tokio = { version = "1.18", features = ["full"] }
