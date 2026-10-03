@@ -38,7 +38,7 @@
     "verbose": true
   },
   "devDependencies": {
-    "@babel/core": "^7.24.9",
+    "@babel/core": "^7.29.7",
     "@babel/eslint-parser": "^7.24.8",
     "@babel/plugin-proposal-class-properties": "^7.16.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.16.0",
@@ -85,7 +85,7 @@
     "mutation-observer": "^1.0.3",
     "npm-groovy-lint": "^14.6.0",
     "pkg-dir": "^8.0.0",
-    "postcss": "^8.4.39",
+    "postcss": "^8.5.28",
     "postcss-loader": "^8.1.1",
     "prettier": "^2.5.0",
     "sass": "^1.77.8",
